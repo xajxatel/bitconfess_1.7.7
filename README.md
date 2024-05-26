@@ -3,7 +3,7 @@
 bitsconfess is an anonymous platform for students of BITS Hyderabad to share confessions, comments, and any other updates about college life. Users can write confessions, like and comment on them, and keep track of their own confessions.
 
 <p align="center">
-  <img src="assets/username.png" alt="plane" width="200" />
+  <img src="assets/username.png" alt="plane" width="300" />
 </p>
 
 ## Features
