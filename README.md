@@ -36,7 +36,7 @@ bitsconfess is an anonymous platform for students of BITS Hyderabad to share con
 To get started with bitsconfess, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/bitsconfess.git
+git clone https://github.com/xajxatel/bitsconfess.git
 cd bitsconfess
 flutter pub get
 flutter run
